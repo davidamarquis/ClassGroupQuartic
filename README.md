@@ -1,7 +1,7 @@
 ### Required Dependencies
-Magma 
-Cado NFS
-Sage 
+Magma   
+Cado NFS  
+Sage   
 
 Sage is used as a Python library.
 The following Python packages are not included in Sage and must be install: pytest, tqdm.
